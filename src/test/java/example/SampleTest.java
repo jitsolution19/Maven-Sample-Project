@@ -12,7 +12,7 @@ public class SampleTest {
 	@BeforeTest
 	public void beforetest() {
 		System.out.println("Launch Application");
-		System.setProperty("webdriver.chrome.driver", "B:\\Automation\\software\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "E:\\Selenium_Project\\browserdriver\\chromedriver_win32\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().deleteAllCookies();
 	}
