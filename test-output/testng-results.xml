@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-10-02T11:02:37Z" name="Suite" finished-at="2018-10-02T11:02:58Z" duration-ms="20859">
+  <suite started-at="2018-10-05T02:58:11Z" name="Default suite" finished-at="2018-10-05T02:58:38Z" duration-ms="26594">
     <groups>
     </groups>
-    <test started-at="2018-10-02T11:02:37Z" name="Test" finished-at="2018-10-02T11:02:58Z" duration-ms="20859">
+    <test started-at="2018-10-05T02:58:11Z" name="Default test" finished-at="2018-10-05T02:58:38Z" duration-ms="26594">
       <class name="example.SampleTest">
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:example.SampleTest@2d2ffcb7]" started-at="2018-10-02T11:02:37Z" name="beforetest" finished-at="2018-10-02T11:02:52Z" duration-ms="15029" status="PASS">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:example.SampleTest@762ef0ea]" started-at="2018-10-05T02:58:11Z" name="beforetest" finished-at="2018-10-05T02:58:30Z" duration-ms="19057" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforetest -->
-        <test-method signature="temp()[pri:0, instance:example.SampleTest@2d2ffcb7]" started-at="2018-10-02T11:02:52Z" name="temp" finished-at="2018-10-02T11:02:57Z" duration-ms="4755" status="PASS">
+        <test-method signature="temp()[pri:0, instance:example.SampleTest@762ef0ea]" started-at="2018-10-05T02:58:31Z" name="temp" finished-at="2018-10-05T02:58:36Z" duration-ms="5574" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- temp -->
-        <test-method is-config="true" signature="aftertest()[pri:0, instance:example.SampleTest@2d2ffcb7]" started-at="2018-10-02T11:02:57Z" name="aftertest" finished-at="2018-10-02T11:02:58Z" duration-ms="1036" status="PASS">
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:example.SampleTest@762ef0ea]" started-at="2018-10-05T02:58:36Z" name="aftertest" finished-at="2018-10-05T02:58:38Z" duration-ms="1812" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftertest -->
       </class> <!-- example.SampleTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
