@@ -21,6 +21,7 @@ public class SampleTest {
 	public void temp() {
 		driver.get("https://housing.com/");
 		driver.manage().window().maximize();
+		
 	}
 
 	@AfterTest
