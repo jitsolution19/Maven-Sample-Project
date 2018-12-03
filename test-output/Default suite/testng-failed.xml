@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testNG_Example.ListenerUsage">
+      <class name="testNG_Example.LoopingExecution">
         <methods>
-          <include name="samplemethod5"/>
+          <include name="method2"/>
         </methods>
-      </class> <!-- testNG_Example.ListenerUsage -->
+      </class> <!-- testNG_Example.LoopingExecution -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
