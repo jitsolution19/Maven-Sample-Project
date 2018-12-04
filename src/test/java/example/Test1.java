@@ -1,5 +1,6 @@
 package example;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class Test1 {
@@ -17,5 +18,12 @@ public class Test1 {
 	@Test()
 	public void method3Test1() {
 		System.out.println("method3Test1");
+	}
+	
+	@Test()
+	public void method4Test1() {
+		String Name ="jeetendra";
+		Assert.assertEquals("Akansha", Name);
+//		System.out.println("method3Test1");
 	}
 }
