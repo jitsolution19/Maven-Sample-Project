@@ -23,7 +23,7 @@ public class Test1 {
 	@Test()
 	public void method4Test1() {
 		String Name ="jeetendra";
-		Assert.assertEquals("Akansha", Name);
+		Assert.assertEquals("jeetendra", Name);
 //		System.out.println("method3Test1");
 	}
 }
