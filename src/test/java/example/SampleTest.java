@@ -20,6 +20,7 @@ public class SampleTest {
 	@Test
 	public void temp() {
 		driver.get("https://housing.com/");
+		System.out.println(driver.getTitle());
 		driver.manage().window().maximize();
 		
 	}
