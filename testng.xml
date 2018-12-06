@@ -12,4 +12,9 @@
 			<class name="example.Test2" />
 		</classes>
 	</test>
+	<test name="VerifyPageTitle">
+	<classes>
+	<class name="testNG_Example.WebSitetitleValidation"></class>
+	</classes>
+	</test>
 </suite> <!-- Suite -->
